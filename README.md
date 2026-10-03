@@ -64,6 +64,7 @@ For teams that want open-source software without operating it themselves.
 - [GitLab.com](https://gitlab.com) - Managed GitLab with issues, boards, milestones, and roadmaps. `MIT` (Community Edition) `Ruby`.
 - [Plane Cloud](https://app.plane.so) - Managed Plane.so with the same feature set as self-hosted. `AGPL-3.0` `TypeScript`.
 - [Taiga Cloud](https://tree.taiga.io) - Managed Taiga hosted by Kaleidos Ventures. `MPL-2.0` `Python`.
+- [Tale](https://tale.dev/) — Hosted project workspace for shared tasks with people and AI agents, combining persistent agent workspaces with deliverable review. `MIT` `TypeScript` · [Source](https://github.com/tale-project/tale).
 
 ## Related Lists
 
